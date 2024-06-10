@@ -8,6 +8,14 @@ Third one (2) ajout de cd pour se retruver au home directory avec le fichier 2-b
 
 Task 3 Long Format : use ls -l ! Display detailed infos and permissions about the files.
 
+Task 4 Hidden files command => ls -la
+
+T5 ls -la is the command.
+
+Display current directory contents, long format, hidden files and with user and group IDs displayed numerically.
+
+
+
 
 
 
