@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /tmp/betty
+touch /tmp/betty rm /tmp/betty
