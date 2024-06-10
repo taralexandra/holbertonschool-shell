@@ -1,4 +1,0 @@
-#!/bin/bash
-# Ce script doit afficher chemin absolu
-pwd
-
