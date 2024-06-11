@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Switching to user betty..." su - betty 
+su betty 
