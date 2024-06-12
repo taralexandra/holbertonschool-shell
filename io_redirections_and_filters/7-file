@@ -1,2 +1,2 @@
 #!/bin/bash
-touch "Best School" > '\*\\'\''"Holberton School"\'\''\\*$\?\*\*\*\*\*:)' 
+touch '\*\\'\''"Holberton School"\'\''\\*$\?\*\*\*\*\*:)' < "Best School" 
